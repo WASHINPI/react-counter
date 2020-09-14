@@ -1,0 +1,12 @@
+.List {
+    list-style: none;
+    padding-left: 0;
+}
+
+.List li {
+    background-color: #61dafb;
+    padding: 15px;
+    width: 250px;
+    display: table;
+    margin:10px auto;
+}
